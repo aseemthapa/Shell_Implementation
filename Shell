@@ -1,1 +1,6 @@
-
+This Shell Implementaion lets all function call to run(using an exec function).
+It also supports:
+      1) history: shows the user history of commands
+      2) listpids: shows the list of command pids.
+      3) semicolon seperation:
+              echo foo; echo x will give output for both echo foo and echo x.
